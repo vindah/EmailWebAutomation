@@ -1,5 +1,5 @@
 # EmailWebAutomation
-This repo consists of cypress test code for some test cases created for gmail automation
+This repo consists of Selenium test code for some test cases created for gmail automation to send an email and assert what was sent.
 
 To run the test code:
 
@@ -13,3 +13,6 @@ To run the test code:
 
 or
 Clone the project directly on the IDE from github
+
+# Some dependencies for the project:
+`Cucumber, Maven, Junit, etc.`
