@@ -1,4 +1,4 @@
-# EmailWebAutomation
+# EmailWebAutomationSelenium
 This repo consists of Selenium test code for some test cases created for gmail automation to send an email and assert what was sent.
 
 To run the test code:
